@@ -1,0 +1,36 @@
+{
+    "name": "persian-preprocess",
+    "version": "1.0.0",
+    "description": "Persian (Farsi) text pre processing (normalize, number, punctuation, white space, stop word & ...)",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webilix/persian-preprocess.git"
+    },
+    "keywords": [
+        "persian",
+        "farsi",
+        "text",
+        "preprocess",
+        "pre process",
+        "normalize",
+        "number",
+        "punctuation",
+        "whitespace",
+        "white space",
+        "stop word",
+        "stopword"
+    ],
+    "author": "Ali Amirnezhad",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/webilix/persian-preprocess/issues"
+    },
+    "homepage": "https://github.com/webilix/persian-preprocess#readme",
+    "devDependencies": {
+        "jest": "^24.8.0"
+    }
+}
