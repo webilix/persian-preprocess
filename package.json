@@ -31,6 +31,6 @@
     },
     "homepage": "https://github.com/webilix/persian-preprocess#readme",
     "devDependencies": {
-        "jest": "^24.8.0"
+        "jest": "^28.1.0"
     }
 }
